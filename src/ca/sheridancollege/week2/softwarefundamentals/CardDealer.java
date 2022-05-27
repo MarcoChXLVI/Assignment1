@@ -20,5 +20,10 @@ public class CardDealer
         
         Card eigthClubs = new Card("Clubs", 8);
         eigthClubs.setSuit("diamond");
+        
+        Card sevvenClubs = new Card("Clubs", 7);
+        eigthClubs.setSuit("diamo");
+        
+        
     }
 }
