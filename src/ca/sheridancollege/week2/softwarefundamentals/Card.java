@@ -3,6 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+// adding comments 3:13pm
 package ca.sheridancollege.week2.softwarefundamentals;
 
 /**
@@ -10,6 +11,8 @@ package ca.sheridancollege.week2.softwarefundamentals;
  * Created in Week 2 for the cloning repository demo
  * @author dancye, 2019
  */
+
+// adding comments 3:14pm
 public class Card 
 {
     private String suit;// hearts, diamonds, spades and clubs
