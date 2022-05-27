@@ -1,4 +1,6 @@
 /*
+Marco Chavez Cerpa
+Id 991577955
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
@@ -15,5 +17,8 @@ public class CardDealer
     {
         Card nineClubs = new Card("Clbs", 9);
         nineClubs.setSuit("diamonds");
+        
+        Card eigthClubs = new Card("Clubs", 8);
+        eigthClubs.setSuit("diamond");
     }
 }
