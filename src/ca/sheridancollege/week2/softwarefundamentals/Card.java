@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package ca.sheridancollege.week2.softwarefundamentals;
 
 /**
@@ -21,6 +16,8 @@ public class Card
      * @param givenSuit
      * @param givenValue 
      */
+    // comments 3:18pm
+    // another comment
     public Card(String givenSuit, int givenValue)
     {
         suit = givenSuit;
